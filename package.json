@@ -32,7 +32,14 @@
     "trailingComma": "es5"
   },
   "name": "date-range-in-period",
-  "author": "Joel Joseph",
+  "author": "Joel Joseph <joeljosephchalakudy@gmail.com> (https://github.com/joeljosephchalakudy)",
+  "keywords": [
+    "date",
+    "date-range",
+    "date-range-in-period",
+    "time"
+  ],
+  "repository": "https://github.com/JOELJOSEPHCHALAKUDY/date-range-in-period.git",
   "module": "dist/date-range-in-period.esm.js",
   "size-limit": [
     {
