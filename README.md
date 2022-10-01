@@ -21,7 +21,7 @@ npm install --save date-range-in-period
 
 ## Usage
 
-You need to import skeleton and theme styles first.
+You need to import library first.
 
 
 ### `DRIP library`
